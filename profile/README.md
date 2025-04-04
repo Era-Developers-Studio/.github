@@ -18,6 +18,7 @@ We are a passionate development studio creating robust and scalable solutions us
 
 ### 📱 Mobile
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
+[![Flame](https://img.shields.io/badge/Flame-EE6F4D?style=for-the-badge&logo=flame&logoColor=white)](https://flame-engine.org)
 
 ### ⚙️ Backend
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
