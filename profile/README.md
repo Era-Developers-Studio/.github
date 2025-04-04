@@ -1,13 +1,17 @@
 # 👋 Welcome to Era Developers!
 
-We are a passionate development studio creating robust and scalable solutions using modern technologies. Our expertise spans backend development, databases, DevOps, and more.
+We are a passionate development studio creating robust and scalable solutions using modern technologies. Our expertise spans backend, frontend, mobile development, databases, DevOps, and more.
 
 ## 🛠️ Our Tech Stack
 
 ### 📜 Languages
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://javascript.com)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://markdownguide.org)
+
+### 📱 Mobile & Frontend
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
 
 ### ⚙️ Backend
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
