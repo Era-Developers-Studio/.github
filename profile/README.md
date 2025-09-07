@@ -1,3 +1,4 @@
+![Era Developers Banner](https://raw.githubusercontent.com/Era-Developers-Studio/.github/main/profile/assets/banner.jpg)
 # 👋 Welcome to Era Developers!
 
 We are a passionate development studio creating robust and scalable solutions using modern technologies. Our expertise spans backend, frontend, mobile development, databases, DevOps, and more.
