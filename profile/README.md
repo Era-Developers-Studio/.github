@@ -63,6 +63,31 @@ We are a passionate development studio creating robust and scalable solutions us
 ### 🎨 Design
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 
+# 🚀 Our Workflow Process
+
+We follow a clear and structured process to ensure your project's success from idea to launch and beyond.
+
+1.  **📞 Discovery & Consultation**
+    We discuss your idea, goals, and requirements to understand the full scope of the project.
+
+2.  **📋 Proposal & Planning**
+    We prepare a detailed plan, timeline, and estimate. Once approved, we move to development.
+
+3.  **🎨 Design & Prototyping**
+    We create wireframes and prototypes to visualize the final product and align on the user experience.
+
+4.  **💻 Development**
+    Our team starts coding, following Agile methodology with regular updates and demo sessions.
+
+5.  🧪 **Testing & Quality Assurance**
+    We rigorously test every feature to ensure reliability, security, and performance.
+
+6.  **🚀 Deployment & Launch**
+    We handle the full deployment process to your server or a cloud platform of your choice.
+
+7.  **📈 Maintenance & Support**
+    We offer ongoing support and maintenance packages to keep your solution running smoothly.
+
 ## 🔧 Our Development Philosophy
 
 We don't just write code; we engineer solutions. Our process is built on three core pillars:
