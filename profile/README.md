@@ -63,6 +63,14 @@ We are a passionate development studio creating robust and scalable solutions us
 ### 🎨 Design
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 
+## 🔧 Our Development Philosophy
+
+We don't just write code; we engineer solutions. Our process is built on three core pillars:
+
+*   **🧩 Clean Architecture:** We build scalable and maintainable systems from the ground up.
+*   **🛡️ Reliability & Testing:** Every line of code is covered by tests to ensure stability.
+*   **🚀 CI/CD:** Automated pipelines allow us to deliver updates quickly and safely.
+
 ## 🌐 Follow Us
 Stay connected with our latest updates and projects:
 
