@@ -73,7 +73,7 @@ Stay connected with our latest updates and projects:
 ## 📬 Get in Touch
 Have a project in mind or want to collaborate? Reach out to us!
 
-[![Telegram (Sales)](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eradev_sales)
+[![Telegram (HR)](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eradev_hr)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/375255339291)
 <!-- [![Viber](https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=%2B375255339291) -->
 
